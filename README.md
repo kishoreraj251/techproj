@@ -1,0 +1,2 @@
+# techproj
+the company detail 
